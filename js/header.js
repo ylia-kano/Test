@@ -1,0 +1,3 @@
+$(function (){ 
+    $('body').prepend('<header><div class="site-logo"><img src="image/logo.png"></div><div class="nav-menu"><ul><li class="nav-menu__item nav-menu__home">Home</li><li class="nav-menu__item">About</li><li class="nav-menu__item">Work</li><li class="nav-menu__item">Process</li><li class="nav-menu__item">Services</li><li class="nav-menu__item">Testimonials</li><li class="nav-menu__item">Contact</li></ul></div></header>');
+});
