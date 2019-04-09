@@ -37,6 +37,12 @@ h2{
     margin-bottom: 40px;
 }
 
+h3{
+	font-size: 24px;
+    font-weight: 300;
+    margin-bottom: 40px;
+}
+
 p{
 	font-family: 'nunitosans', arial;
 	line-height: 28px;
@@ -208,3 +214,110 @@ progress{
 	margin-left: 36.4%;
     margin-top: 16.8%;
 }
+
+.services{
+	background-color: #f5f5f5;
+	height: 530px;
+	text-align: center;
+	padding: 75px 0;
+	margin-top: 100px;
+}
+
+.services__item{
+	display: inline-table;
+	float: left;
+	width: 24%;
+    min-height: 220px;
+    padding: 10px 6px;
+}
+
+.services-image {
+    min-height: 70px;
+}
+
+.services__item div{
+	text-transform: uppercase;
+}
+
+.testimonials{
+	background-color: #10c9c3;
+	height: 500px;
+	text-align: center;
+	color:#fff;
+
+}
+
+.testimonials h3{
+	width: 67%;
+    margin: 0 auto;
+    padding: 170px 0 25px;
+    line-height: 35px;
+}
+
+.clients{
+	height: 200px;
+}
+
+.clients__item{
+	display: inline-table;
+	float: left;
+	width: 20%;
+	height: inherit;
+	text-align: center;
+}
+
+.clients__item img{
+	margin: 30%;
+}
+
+.need-project{
+	height: 750px;
+	background-color: #f5f5f5;
+	text-align: center;
+}
+
+.need-project p{
+	width: 52%;
+    margin: 0 auto;
+}
+
+form{
+	width: 770px;	
+    margin: 0 auto;
+    text-align: left;
+padding: 30px 50px;
+}
+
+input{
+	width: 320px;
+	padding: 10px;
+    margin: 15px 19px;
+    font-size: 15px;
+
+}
+input:nth-child(3){
+	width: 92%;
+}
+textarea{
+	margin: 15px 19px;
+	width: 94.5%;
+	padding: 10px;
+	font-size: 15px;
+}
+footer{
+	background-color: #141414;
+	height: 280px;
+}
+/*
+input:nth-child(5){
+	background-color: #10c9c3;
+	color: #fff;
+    border: none;
+    padding: 18px 60px;
+    text-transform: uppercase;
+    font-family: 'Montserrat', arial;
+   	outline: none;
+
+}
+
+*/
