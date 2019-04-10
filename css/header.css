@@ -26,8 +26,15 @@ header{
 	display: inline-block;
 	margin-left: 30px;
 }
-
-.nav-menu__home{
+.nav-menu__item a{
+	text-decoration: none;
+	color:#000;
+}
+.nav-menu__item a:hover{
+		color:#10c9c3;
+		cursor: pointer;
+}
+.nav-menu__home a{
 	color:#10c9c3;
 }
 
