@@ -44,14 +44,6 @@ body {
 	color: #fff;
 }
 
-.banner-none{
-	height: 1px;
-}
-
-.banner-none .container{
-	display: none;
-}
-
 h1{
 	font-size: 38px;
     font-weight: 300;
