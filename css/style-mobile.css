@@ -137,8 +137,8 @@
 	}
 	.site-logo {
 		text-align: left; 
-    	margin: 12px 30px 30px 30px;
-    	width: 20%;
+    	margin: 0px 0px 0px 30px;
+    width: 20%;
 	}
 	.site-logo img{
 		width: 70px;
@@ -176,7 +176,7 @@
    		width: 90%;
 	}
 	.numbers__item {
-  	width: 100%;
+  		width: 100%;
     	display: block;
     	height: 70px;
 	}
