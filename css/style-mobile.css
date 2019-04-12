@@ -137,7 +137,7 @@
 	}
 	.site-logo {
 		text-align: left; 
-    	margin: 0px 0px 0px 30px;
+    	margin: 15px 0px 0px 30px;
     width: 20%;
 	}
 	.site-logo img{
@@ -145,6 +145,7 @@
 	}
 	.nav-menu-mobile {
 	 	display: block;
+		margin: 30px 45px 20px 0px;
 	}
 	.nav-menu {
 		display: none;
