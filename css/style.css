@@ -287,7 +287,7 @@ background-color: #21bfb9;
 }
 
 .work_process-video img{
-	margin-top: 20%;
+	margin-top: 233px;
 	
 }
 
@@ -368,7 +368,22 @@ background-color: #21bfb9;
 	background-color: #f5f5f5;
 	text-align: center;
 }
+.need-project-contact{
+	text-align: left;
+}
+.need-project-contact-item{
+	display: inline-block;
+    width: 50%;
+    margin-top: 150px;
+}
+.need-project-contact-item:nth-child(1){
+width: 35%;
+float: left;
+}
 
+.need-project-contact-item:nth-child(2){
+	float: right;
+}
 .need-project-about{
 	height: 300px;
 }
@@ -378,11 +393,29 @@ background-color: #21bfb9;
     margin: 0 auto;
 }
 
+.need-project-contact p {
+	width: 100%;
+	font-size: 16px;
+}
+
+.need-project-contact-info{
+	margin-top: 25px;
+}
+
+.need-project-contact span{
+	font-weight: bold;
+}
+
 form{
 	width: 670px;	
     margin: 0 auto;
     text-align: left;
-padding: 30px 50px;
+	padding: 30px 50px;
+}
+
+.need-project-contact form {
+    width: 690px;
+    padding: 30px 0;
 }
 
 input{
@@ -392,6 +425,10 @@ input{
     font-size: 15px;
 
 }
+.need-project-contact input {
+    width: 280px;
+}
+
 input:nth-child(3){
 	width: 90.5%;
 }
@@ -404,6 +441,10 @@ textarea{
 
 .need-project__button{
 	text-align: center;
+}
+
+.need-project-contact .need-project__button {
+    text-align: left; 
 }
 
 .need-project__button input{
@@ -427,3 +468,4 @@ textarea{
 .arrow-refer img{
 	width: 20%;
 }
+

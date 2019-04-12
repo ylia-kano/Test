@@ -8,9 +8,14 @@ header{
 
 .site-logo{
 	display: inline-block;
-	width: 10%;
 	margin-left: 100px;
 	padding-top: 38px;
+}
+
+.nav-menu-mobile {
+    display: none;
+    float: right;
+    margin: 38px 45px 30px 30px;
 }
 
 .nav-menu{
@@ -38,4 +43,6 @@ header{
 .nav-menu__home a{
 	color:#10c9c3;
 }
+
+
 

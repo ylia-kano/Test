@@ -1,0 +1,283 @@
+@media screen and (max-width: 1365px){
+	header{
+		width: 100%;
+	}
+	.numbers__item {
+    	width: 50%;
+	}
+	.numbers {
+    	height: 355px;
+	}
+	.services__item {
+    	width: 220px;
+    	margin-right: 2%;
+    	margin-left: 2%;
+	}
+	form {
+ 	   width: 100%;
+	}
+	.footer__item:nth-child(1) {
+   	 	width: 30%;
+	}
+}
+
+@media screen and (max-width: 1304px){
+	.services {
+    	height: 940px;
+	}
+	.services__item {
+    	width: 312px;
+    	margin-left: 12%;
+	}
+}
+@media screen and (max-width: 1069px){
+	.services__item {
+    	width: 40%;
+    	margin-left: 5%;
+    	padding: 0px 0px;
+	}
+	.numbers {
+    	height: 300px;
+	}
+}
+
+@media screen and (max-width: 957px){
+	.site-logo {  
+ 	    margin-left: 5%;
+	}
+	.work__item {
+    	width: 50%;
+	}
+	.work {
+    	height: 1210px;
+	}
+
+
+.work-home {
+    height: 1800px;
+}
+
+
+
+
+}
+
+@media screen and (max-width: 903px){
+
+	.nav-menu {
+   	 	letter-spacing: 0.2px;
+   	 	margin-right: 10px; 
+	}
+	ul {
+   		padding-inline-start: 20px;
+	}
+	.numbers {
+    	height: 250px;
+	}
+	.skills__left {
+		width: 60%;
+	}
+	.skills__right {
+		width: 40%;
+
+	}
+	form{
+		padding: 30px 1px;
+	}
+	input {
+    	width: 219px;
+    }
+    .work_process-title {
+    	width: 100%;
+	}
+	.testimonials h3 {
+    	width: 100%;
+	}
+	.need-project p {
+    	width: 100%;
+	}
+	.about {
+    	height: 320px;
+    	width: 100%;
+	}
+	.about-home {
+    margin-top: 160px;
+        height: 200px;
+}
+.about-home__text {
+
+    width: 100%;
+}
+}
+@media screen and (max-width: 834px){
+	.nav-menu {
+    	letter-spacing: 0px;
+    	margin-right: 25px;
+    	padding-top: 0;
+	}
+	.site-logo {
+        margin-left: 0%;
+    	padding-top: 22px;
+    	width: 100%;
+    	text-align: center;
+	}
+	.clients__item img {
+    	width: 75%;
+	}
+	footer .container{
+		margin-left: 50px;
+		margin-right: 50px;
+	}
+}
+
+@media screen and (max-width: 767px){
+	.container {
+   	 	margin-left: 50px;
+    	margin-right: 50px;
+	}
+	.site-logo {
+		text-align: left; 
+    	margin: 12px 30px 30px 30px;
+    	width: 20%;
+	}
+	.site-logo img{
+		width: 70px;
+	}
+	.nav-menu-mobile {
+	 	display: block;
+	}
+	.nav-menu {
+		display: none;
+		position: absolute;
+		width: 100%;
+    	margin-top: -22px;
+    	text-align: center;
+    	background-color: #e9e9e9;
+    	font-size: 25px;
+	}
+	li.nav-menu__item {
+    	display: block;
+    	padding: 20px;
+    	margin-left: 0;
+    	right: 0;
+	}
+	header ul {
+   	 	padding-inline-start: 0px;
+	}
+	.banner__info {
+    	width: 100%;
+    	margin-top: 170px;
+    	margin-right: 0; 
+	}
+	.skills__right {
+ 	  	display: none;
+	}
+	.skills__left {
+   		width: 90%;
+	}
+	.numbers__item {
+  		width: 340px;
+    	display: block;
+    	height: 70px;
+	}
+	.numbers {
+	    height: 500px;
+	}
+	.footer__item:nth-child(1) {
+	    width: 60%;
+	}
+	.footer__item:nth-child(2) {
+    	width: 40%;
+	}
+	.footer__item:nth-child(3)  {
+   		width: 30%;
+    	text-align: center;
+	}
+	.footer__item:nth-child(4) {
+	    width: 30%;
+	    text-align: center;
+	}
+	.footer__item:nth-child(5) {
+	    text-align: center;
+	}
+	footer {  
+    	height: 360px;
+	}
+	.clients {
+ 	   height: 140px;
+	}
+}
+@media screen and (max-width: 543px){
+.about-home {
+    height: 230px;
+}
+}
+
+
+@media screen and (max-width: 534px){
+	.services {
+    	margin-top: 0;
+        height: 1180px;
+	}
+	.services__item {
+	    width: 100%;
+	    margin-left: 0;
+        margin-bottom: -65px;
+	}
+}
+
+@media screen and (max-width: 480px){
+	footer .container {
+  		margin-left: 15px;
+    	margin-right: 15px;
+	}
+	footer {
+    	height: 430px;
+	}
+	.footer__item:nth-child(1) {
+    	width: 100%;
+	}
+	.footer__item:nth-child(2) {
+	    width: 100%;
+	}
+}
+
+@media screen and (max-width: 425px){
+	.container {
+ 	    margin-left: 15px;
+	    margin-right: 15px;
+	}
+	.work_process-video {
+	    height: 220px;
+	}
+	.work_process-video img {
+	    margin-top: 70px;
+	}
+	.work_process-play::before {
+	    margin-top: 108px;
+	}
+	.skills {
+    	height: 450px;
+	}
+	.numbers {
+    	height: 410px;
+	}
+	.services__item {
+	    margin-bottom: -45px;
+	}
+	.services {
+	    height: 1350px;
+	}
+	.testimonials h3 {
+        padding: 50px 0 25px;
+	}
+	.testimonials {
+	    height: 350px;
+	}
+	#page-preloader .spinner {
+    	left: 30%; 
+	}
+	.about-home h1{
+		font-size: 34px;
+	}
+}
