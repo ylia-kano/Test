@@ -19,6 +19,18 @@
 	.footer__item:nth-child(1) {
    	 	width: 30%;
 	}
+	.need-project-contact .need-project-contact-item{
+		width: 100%;
+	}
+	.need-project-contact {
+    	height: 980px;
+    }
+	.need-project-contact .need-project-contact-item:nth-child(2) {
+      	margin-top: 0px;
+	}
+	.need-project-contact form {
+    	margin: 0;
+    }
 }
 
 @media screen and (max-width: 1304px){
@@ -108,6 +120,21 @@
 
     width: 100%;
 }
+.about-about {
+    height: 400px;
+
+}
+
+.about-about .about__info {
+    width: 100%;
+    margin-top: 0;
+    text-align: center;
+}
+
+.about-about h1 {
+    text-align: center;
+}
+
 }
 @media screen and (max-width: 834px){
 	.nav-menu {
@@ -122,12 +149,30 @@
     	text-align: center;
 	}
 	.clients__item img {
-    	width: 68%;
+    	width: 65%;
 	}
 	footer .container{
 		margin-left: 50px;
 		margin-right: 50px;
 	}
+	.need-project-contact .container {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.need-project-contact form {
+    width: 100%;
+}
+.need-project-contact input {
+    width: 95%;
+        margin: 15px 0;
+}
+.need-project-contact textarea {
+    width: 95%;
+        margin: 15px 0;
+}
+.need-project-contact{
+    height: 1075px;
+}
 }
 
 @media screen and (max-width: 767px){
@@ -138,20 +183,20 @@
 	.site-logo {
 		text-align: left; 
     	margin: 15px 0px 0px 30px;
-    width: 20%;
+    	width: 20%;
 	}
 	.site-logo img{
 		width: 35px;
 	}
 	.nav-menu-mobile {
 	 	display: block;
-		margin: 30px 45px 20px 0px;
+	 	margin: 38px 45px 30px 30px;
 	}
 	.nav-menu {
 		display: none;
 		position: absolute;
 		width: 100%;
-    	margin-top: -22px;
+    	margin-top: 25px;
     	text-align: center;
     	background-color: #e9e9e9;
     	font-size: 25px;
@@ -212,6 +257,12 @@
 .about-home {
     height: 230px;
 }
+.about-about .about__info-margin {
+     margin-bottom: 0; 
+}
+.need-project-about {
+    margin-top: 60px;
+}
 }
 
 
@@ -241,6 +292,9 @@
 	.footer__item:nth-child(2) {
 	    width: 100%;
 	}
+	.need-project-contact {
+    height: 1200px;
+}
 }
 
 @media screen and (max-width: 425px){
@@ -267,7 +321,7 @@
 	    margin-bottom: -45px;
 	}
 	.services {
-	    height: 1350px;
+	    height: 1500px;
 	}
 	.testimonials h3 {
         padding: 50px 0 25px;
@@ -280,5 +334,8 @@
 	}
 	.about-home h1{
 		font-size: 34px;
+	}
+	.need-project-about form {
+    	padding: 10px 1px;
 	}
 }
