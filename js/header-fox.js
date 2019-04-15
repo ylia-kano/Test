@@ -1,0 +1,3 @@
+$(function (){ 
+    $('body').prepend('<header><div class="site-logo"><a href="index.html"><img src="image/fox-spinner.gif"></a></div><div class="nav-menu"><ul><li class="nav-menu__item nav-menu__fox "><a href="home2.html">Главная</a></li><li class="nav-menu__item "><a href="#">Галерея<a></li><li class="nav-menu__item"><a href="#">Информация</a></li></ul></div><div class="nav-menu-mobile"><i class="fas fa-bars fa-4x"></i></div></header>');
+});

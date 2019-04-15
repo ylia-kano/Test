@@ -1,3 +1,3 @@
 $(function (){ 
-    $('body').prepend('<header><div class="site-logo"><a href="index.html"><img src="image/logo.png"></a></div><div class="nav-menu"><ul><li class="nav-menu__item nav-menu__home"><a href="home.html">Home</a></li><li class="nav-menu__item"><a href="about.html">About<a></li><li class="nav-menu__item"><a href="#">Contact</a></li></ul></div><div class="nav-menu-mobile"><i class="fas fa-bars fa-4x"></i></div></header>');
+    $('body').prepend('<header><div class="site-logo"><a href="index.html"><img src="image/logo.png"></a></div><div class="nav-menu"><ul><li class="nav-menu__item nav-menu__home"><a href="home.html">Home</a></li><li class="nav-menu__item"><a href="about.html">About<a></li><li class="nav-menu__item"><a href="contact.html">Contact</a></li></ul></div><div class="nav-menu-mobile"><i class="fas fa-bars fa-4x"></i></div></header>');
 });
