@@ -8,3 +8,7 @@
 <a href="https://ylia-kano.github.io/contact.html">contact</a><br>
 # home-fox
 <a href="https://ylia-kano.github.io/home-fox.html">home-fox</a><br>
+
+
+
+# Верстка по макету  
